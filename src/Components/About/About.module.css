@@ -1,0 +1,13 @@
+.abmain{
+    font-size: 50PX;
+    font-weight: bold;
+    color:white;
+    margin-top: 150px;
+    text-align: center;
+}
+.absub{
+    color:white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}

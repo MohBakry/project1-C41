@@ -1,0 +1,13 @@
+.appheader{
+    background-color: #055160;
+    height: 15%;
+    top:0;
+    right: 0;
+    left:0;
+    position: fixed;
+   
+}
+
+a.nav-link{
+    font-size: 50px !important;
+}
